@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;09_Inherit_Homework_조미현&apos; to &apos;08_Inherit_Homework_조미현&apos;" description="Rename resource &apos;09_Inherit_Homework_조미현&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/09_Inherit_Homework_조미현" name="08_Inherit_Homework_조미현" stamp="1671754448903" updateReferences="true"/>
+</session>

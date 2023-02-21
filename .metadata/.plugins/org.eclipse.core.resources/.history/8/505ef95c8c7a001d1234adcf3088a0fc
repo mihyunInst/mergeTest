@@ -1,0 +1,17 @@
+package edu.kh.array.ex;
+
+public class ArrayExample2 {
+
+	
+	// 얕은 복사 (shallow: 얕은)
+	// -> 주소를 복사하여 서로 다른 두 변수가 (주소값만 참조!!)
+	// 	  하나의 배열(또는 객체)을 참조하는 상태를 만드는 복사 방법
+	
+	public void shallowCopy() {
+		
+		int arr[] = {1, 2, 3, 4, 5};
+		
+		// 얕은 복사 진행
+		int[] copyArr = arr;
+	}
+}
